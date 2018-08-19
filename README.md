@@ -44,6 +44,7 @@ paginate        = 6
   twitterName = "faketryghost"
   fbName = "fakeghost"
   githubName = "eueung"
+  youtubeName = "chrisstayte"
 
   logo = "hugo-logo.png"
   orgName = "EM"
